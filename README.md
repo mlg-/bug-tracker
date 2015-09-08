@@ -22,4 +22,5 @@ I want to create a bug tracker for my development team. We have a few different 
   - Should have a deadline (for completion)
   - Can belong to a single project, optionally
   - Can belong to a single developer, optionally
+  - May float in space forever, doomed to an uncertain future (this is a realistic bug tracker)
 
