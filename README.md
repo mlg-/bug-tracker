@@ -24,3 +24,6 @@ I want to create a bug tracker for my development team. We have a few different 
   - Can belong to a single developer, optionally
   - May float in space forever, doomed to an uncertain future (this is a realistic bug tracker)
 
+## Pro Tips
+
+Should is an indicator that a validation may be necessary to enforce a business requirement. Can is an indicator that we need a column/attribute, but maybe we don't need to enforce it strictly. Look for language about associations between objects to decide how to design the schema. Start by designing a schema 
