@@ -26,4 +26,4 @@ I want to create a bug tracker for my development team. We have a few different 
 
 ## Pro Tips
 
-Should is an indicator that a validation may be necessary to enforce a business requirement. Can is an indicator that we need a column/attribute, but maybe we don't need to enforce it strictly. Look for language about associations between objects to decide how to design the schema. Start by designing a schema 
+Should is an indicator that a validation may be necessary to enforce a business requirement. Can is an indicator that we need a column/attribute, but maybe we don't need to enforce it strictly. Look for language about associations between objects to decide how to design the schema. Start by designing a schema, drawing an ER diagram, and then create migrations one by one, rolling each back to make sure that it can be reverted. Don't forget validations on your models!
