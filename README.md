@@ -8,7 +8,8 @@ I want to create a bug tracker for my development team. We have a few different 
   - Should have email and password
   - Can have first and last name
   - Developers can be members of a project, even if there are no bugs in that project
-  - Developers can also be assigned to a bug, but only in a project they belong to.
+  - Developers can work on multiple projects
+  - Developers can also be assigned to a bug, but only in a project they belong to
 
 ## Applications
   - Should have a name
@@ -17,7 +18,7 @@ I want to create a bug tracker for my development team. We have a few different 
 
 ## Bugs
   - Should have a title or name
-  - Can also optionally have a description, as long as they want.
+  - Can also optionally have a description, as long as they want
   - Should have a deadline (for completion)
   - Can belong to a single project, optionally
   - Can belong to a single developer, optionally
